@@ -1,0 +1,20 @@
+{
+  "name": "cypress2023",
+  "version": "1.0.0",
+  "description": "cypressPOM",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "author": "barani",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "@testing-library/cypress": "^9.0.0",
+    "cypress": "^12.17.2",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1",
+    "mysql": "^2.18.1"
+  }
+}
